@@ -1,28 +1,5 @@
-/*-----------------------------------*\
-  #style.css
-\*-----------------------------------*/
-
-/**
- * copyright 2021 @codewithsadee 
- */
-
-
-
-
-
-/*-----------------------------------*\
-  #VARIABLE
-\*-----------------------------------*/
-
-/**
- * import variable css file
- */
 
 @import url(./variable.css);
-
-
-
-
 
 /*-----------------------------------*\
   #RESET
@@ -39,6 +16,10 @@ li { list-style: none; }
 a {
   text-decoration: none;
   color: inherit;
+}
+
+body{
+  background-color: var(--eerie-black);
 }
 
 button {
@@ -338,6 +319,12 @@ header {
   margin-bottom: 60px;
 }
 
+
+.section-name{
+  font-family: 'Dancing Script', cursive;
+  color: var(--spanish-gray);
+  font-size: 53px;
+}
 
 
 
