@@ -394,6 +394,7 @@ header {
 }
 
 .download-cv {
+  cursor: pointer;
   border: 2px solid hsla(100, 100%, 100%, 0.2);
   width: 100%;
   padding: 60px 0;
