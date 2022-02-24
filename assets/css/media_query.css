@@ -227,6 +227,12 @@
     overflow-y: auto;
     scroll-behavior: smooth;
   }
+  
+  /**
+   * PORTFOLIO
+   */
+   .portfolio-carousel-inner { width: 300%; }
+
 
 
   /**
