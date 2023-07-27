@@ -1,7 +1,5 @@
 'use strict';
 
-
-
 // variables for navbar toggle
 const menuOpenBtn = document.querySelector('.menu-open-btn');
 const menuCloseBtn = document.querySelector('.menu-close-btn');
@@ -81,3 +79,4 @@ portfolioCarouselPrev.addEventListener('click', function () {
   portfoCount--;
   carouselFunc(portfoCount);
 });
+

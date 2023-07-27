@@ -71,6 +71,12 @@
     gap: 20px;
   }
 
+  .download-cv-container{
+    display:  flex;
+    gap: 1em;
+    flex-direction: column;
+  }
+
 
   /**
    * PORTFOLIO
